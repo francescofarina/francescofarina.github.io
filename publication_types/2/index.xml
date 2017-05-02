@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Francesco Farina</title>
+    <link>https://francescofarina.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Francesco Farina</copyright>
+    <lastBuildDate>Wed, 18 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Minimum Switching Thruster Control for Spacecraft Precision Pointing</title>
+      <link>https://francescofarina.github.io/publication/minimum_switching/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/minimum_switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking Ahead: The Headed Social Force Model</title>
+      <link>https://francescofarina.github.io/publication/hsfm/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/hsfm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
