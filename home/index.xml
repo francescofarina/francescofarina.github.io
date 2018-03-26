@@ -8,7 +8,57 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Francesco Farina</copyright>
     <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://francescofarina.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://francescofarina.github.io/home/about/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/about/</guid>
+      <description>Biography I was born on August 10, 1991 in Vibo Valentia, Italy.
+I received the BSc degree in Electronic and Telecommunication Engineering from the University of Florence in 2013.
+I received the M.Sc. degree cum laude in Management Engineering from the University of Siena in 2015 with a thesis entitled Minimum Switching Precision Pointing with On/Off Actuators.
+Since 2015 I am a Ph.D. Student at the Department of Information Engineering and Mathematics under the supervision of Prof.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://francescofarina.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://francescofarina.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://francescofarina.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://francescofarina.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
