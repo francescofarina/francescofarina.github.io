@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Francesco Farina</title>
-    <link>https://francescofarina.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Francesco Farina</description>
+    <title>1 on Academic</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Francesco Farina</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 18 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://francescofarina.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex Optimization</title>
-      <link>https://francescofarina.github.io/publication/ecc_asymm/</link>
+      <link>/publication/ecc_asymm/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/ecc_asymm/</guid>
+      <guid>/publication/ecc_asymm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When Helbing meets Laumond: The Headed Social Force Model</title>
-      <link>https://francescofarina.github.io/publication/helbing-laumond/</link>
+      <link>/publication/helbing-laumond/</link>
       <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/helbing-laumond/</guid>
+      <guid>/publication/helbing-laumond/</guid>
       <description></description>
     </item>
     

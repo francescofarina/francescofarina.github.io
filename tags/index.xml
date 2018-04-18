@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Francesco Farina</title>
-    <link>https://francescofarina.github.io/tags/</link>
-    <description>Recent content in Tags on Francesco Farina</description>
+    <title>Tags on Academic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Francesco Farina</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://francescofarina.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://francescofarina.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://francescofarina.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
     
     <item>
-      <title>Matlab</title>
-      <link>https://francescofarina.github.io/tags/matlab/</link>
+      <title>MATLAB</title>
+      <link>/tags/matlab/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francescofarina.github.io/tags/matlab/</guid>
+      <guid>/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://francescofarina.github.io/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://francescofarina.github.io/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
