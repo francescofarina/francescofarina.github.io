@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MATLAB on Academic</title>
-    <link>/tags/matlab/</link>
-    <description>Recent content in MATLAB on Academic</description>
+    <title>MATLAB on Francesco Farina</title>
+    <link>https://francescofarina.github.io/tags/matlab/</link>
+    <description>Recent content in MATLAB on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Francesco Farina</copyright>
     <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://francescofarina.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Headed Social Force Model</title>
-      <link>/project/hsfm/</link>
+      <link>https://francescofarina.github.io/project/hsfm/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/hsfm/</guid>
+      <guid>https://francescofarina.github.io/project/hsfm/</guid>
       <description>https://github.com/francescofarina/HeadedSocialForceModel
 The Headed Social Force Model (HSFM) is an enhancement of the traditional Social Force Model (SFM) which explicitly accounts for the pedestrians’ heading. The motion of each individual is described by means of a dynamic model. Forces and torques driving the dynamics of each pedestrian are generated with the purpose of maximizing the realism of the resulting trajectories. In doing so, several conflicting objectives have to be taken into account.</description>
     </item>
