@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Francesco Farina</copyright>
-    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 16:27:56 +0200</lastBuildDate>
     
 	<atom:link href="https://francescofarina.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributed Constrained Nonconvex Optimization: the Asynchronous Method of Multipliers</title>
+      <link>https://francescofarina.github.io/publication/asymm/</link>
+      <pubDate>Tue, 24 Jul 2018 16:27:56 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/asymm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed interpolatory algorithms for set membership estimation</title>

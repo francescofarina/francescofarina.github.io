@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.39" />
+  <meta name="generator" content="Hugo 0.44" />
   <meta name="author" content="Francesco Farina">
 
   
@@ -398,6 +398,65 @@
   
 
   <h3 class="article-title" itemprop="name">
+    <a href="https://francescofarina.github.io/publication/asymm/" itemprop="url">Distributed Constrained Nonconvex Optimization: the Asynchronous Method of Multipliers</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    This paper presents a fully asynchronous and distributed approach for tackling optimization problems in which both the objective function and the constraints may be nonconvex. In the considered network setting each node is active upon triggering of a local timer and has access only to a portion of the objective function and to a subset of the constraints. In the proposed technique, based on the method of multipliers, each node performs, when it wakes up, either a descent steps on a local augmented Lagrangian or an ascent step on the local multiplier vector. Nodes realize when to switch from the descent step to the ascent one through an asynchronous distributed logic-AND, which detects when all the nodes have reached a predefined tolerance in the minimization of the augmented Lagrangian. It is shown that the resulting distributed algorithm is equivalent to a block coordinate descent for the minimization of the global non-separable augmented Lagrangian. This allows one to extend the properties of the centralized method of multipliers to the considered distributed framework. Two application examples are presented to validate the proposed approach: a distributed source localization problem and the parameter estimation of a neural classifier.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    Francesco Farina, Andrea Garulli, Antonio Giannitrapani, Giuseppe Notarstefano
+    
+  </div>
+
+  <div class="pub-publication">
+    2018</div>
+
+  <div class="pub-links">
+    
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1806.05181" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1806.05181.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+      
+    
+      
+        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
     <a href="https://francescofarina.github.io/publication/distributed-set-membership/" itemprop="url">Distributed interpolatory algorithms for set membership estimation</a>
   </h3>
 
@@ -438,65 +497,6 @@
 
 
 
-
-
-  </div>
-
-</div>
-
-      
-    
-      
-        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
-
-  
-  
-
-  <h3 class="article-title" itemprop="name">
-    <a href="https://francescofarina.github.io/publication/ecc_asymm/" itemprop="url">Asynchronous Distributed Method of Multipliers for Constrained Nonconvex Optimization</a>
-  </h3>
-
-  <div class="pub-abstract" itemprop="text">
-    
-    This paper addresses a class of constrained optimization problems over networks in which local cost functions and constraints can be nonconvex. We propose an asynchronous distributed optimization algorithm, relying on the centralized Method of Multipliers, in which each node wakes up in an uncoordinated fashion and performs either a descent step on a local Augmented Lagrangian or an ascent step on the local multiplier vector. These two phases are regulated by a distributed logic-AND, which allows nodes to understand when the descent on the (whole) Augmented Lagrangian is sufficiently small. We show that this distributed algorithm is equivalent to a block coordinate descent algorithm for the minimization of the Augmented Lagrangian followed by an update of the whole multiplier vector. Thus, the proposed algorithm inherits the convergence properties of the Method of Multipliers.
-    
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    
-    Francesco Farina, Andrea Garulli, Antonio Giannitrapani, Giuseppe Notarstefano
-    
-  </div>
-
-  <div class="pub-publication">
-    In press in <em>European Control Conference (ECC) 2018</em>, Preprint in <em>arXiv</em>,2018</div>
-
-  <div class="pub-links">
-    
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1803.06482.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1803.06482" target="_blank" rel="noopener">
-  Full paper
-</a>
 
 
   </div>
@@ -665,6 +665,44 @@
     
 
     
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Francesco Farina, Andrea Garulli, Antonio Giannitrapani, Giuseppe Notarstefano</span>.
+  <a href="https://francescofarina.github.io/publication/asymm/" itemprop="name">Distributed Constrained Nonconvex Optimization: the Asynchronous Method of Multipliers</a>.
+  2018.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1806.05181" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1806.05181.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
     
       
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
