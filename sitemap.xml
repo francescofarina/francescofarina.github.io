@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/publication_types/2/</loc>
+      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     
@@ -14,8 +23,9 @@
     
     <url>
     
-      <loc>https://francescofarina.github.io/publication/distributed-set-membership/</loc>
-      <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+      <loc>https://francescofarina.github.io/</loc>
+      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -23,44 +33,9 @@
     
     <url>
     
-      <loc>https://francescofarina.github.io/publication/ecc_asymm/</loc>
-      <lastmod>2018-03-18T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/project/hsfm/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/publication/minimum_switching/</loc>
-      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/publication/hsfm/</loc>
-      <lastmod>2017-01-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>https://francescofarina.github.io/publication_types/</loc>
+      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -69,25 +44,7 @@
     <url>
     
       <loc>https://francescofarina.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/publication/helbing-laumond/</loc>
-      <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
     </url>
     
   
@@ -96,8 +53,17 @@
     <url>
     
       <loc>https://francescofarina.github.io/publication_types/0/</loc>
-      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
+      <lastmod>2018-04-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/publication/distributed-set-membership/</loc>
+      <lastmod>2018-04-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -115,28 +81,8 @@
     
     <url>
     
-      <loc>https://francescofarina.github.io/publication_types/2/</loc>
-      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://francescofarina.github.io/</loc>
-      <lastmod>2018-04-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://francescofarina.github.io/publication/ecc_asymm/</loc>
+      <lastmod>2018-03-18T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -164,9 +110,18 @@
     
     <url>
     
-      <loc>https://francescofarina.github.io/publication_types/</loc>
-      <lastmod>2018-07-24T16:27:56+02:00</lastmod>
+      <loc>https://francescofarina.github.io/tags/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/project/hsfm/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -184,9 +139,51 @@
     
     <url>
     
-      <loc>https://francescofarina.github.io/tags/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+      <loc>https://francescofarina.github.io/publication/minimum_switching/</loc>
+      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/publication/hsfm/</loc>
+      <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/publication/helbing-laumond/</loc>
+      <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/post/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://francescofarina.github.io/talk/</loc>
     </url>
     
   

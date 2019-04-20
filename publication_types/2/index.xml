@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Francesco Farina</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 16:27:56 +0200</lastBuildDate>
     
 	<atom:link href="https://francescofarina.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A distributed asynchronous method of multipliers for constrained nonconvex optimization</title>
+      <link>https://francescofarina.github.io/publication/asymm/</link>
+      <pubDate>Tue, 24 Jul 2018 16:27:56 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/asymm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimum Switching Thruster Control for Spacecraft Precision Pointing</title>

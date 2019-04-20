@@ -18,8 +18,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/project/hsfm/</guid>
-      <description>https://github.com/francescofarina/HeadedSocialForceModel
-The Headed Social Force Model (HSFM) is an enhancement of the traditional Social Force Model (SFM) which explicitly accounts for the pedestrians’ heading. The motion of each individual is described by means of a dynamic model. Forces and torques driving the dynamics of each pedestrian are generated with the purpose of maximizing the realism of the resulting trajectories. In doing so, several conflicting objectives have to be taken into account.</description>
+      <description>Some useful MATLAB and Python code for replicating the Headed Social Force Model</description>
     </item>
     
   </channel>
