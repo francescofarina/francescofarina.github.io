@@ -1,68 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Francesco Farina</title>
-    <link>https://francescofarina.github.io/publication/</link>
-    <description>Recent content in Publications on Francesco Farina</description>
+    <title>Publications on Academic</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Francesco Farina</copyright>
-    <lastBuildDate>Tue, 24 Jul 2018 16:27:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://francescofarina.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A distributed asynchronous method of multipliers for constrained nonconvex optimization</title>
-      <link>https://francescofarina.github.io/publication/asymm/</link>
-      <pubDate>Tue, 24 Jul 2018 16:27:56 +0200</pubDate>
+      <link>/publication/farina-2019-distributed/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/asymm/</guid>
+      <guid>/publication/farina-2019-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex optimization</title>
+      <link>/publication/farina-2018-asynchronous/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/farina-2018-asynchronous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed interpolatory algorithms for set membership estimation</title>
-      <link>https://francescofarina.github.io/publication/distributed-set-membership/</link>
-      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <link>/publication/farina-2018-distributed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/distributed-set-membership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex Optimization</title>
-      <link>https://francescofarina.github.io/publication/ecc_asymm/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://francescofarina.github.io/publication/ecc_asymm/</guid>
+      <guid>/publication/farina-2018-distributed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimum Switching Thruster Control for Spacecraft Precision Pointing</title>
-      <link>https://francescofarina.github.io/publication/minimum_switching/</link>
-      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      <link>/publication/leomanni-2017-minimum/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/minimum_switching/</guid>
+      <guid>/publication/leomanni-2017-minimum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Walking Ahead: The Headed Social Force Model</title>
-      <link>https://francescofarina.github.io/publication/hsfm/</link>
-      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      <link>/publication/farina-2017-walking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/hsfm/</guid>
+      <guid>/publication/farina-2017-walking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When Helbing meets Laumond: The Headed Social Force Model</title>
-      <link>https://francescofarina.github.io/publication/helbing-laumond/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <link>/publication/farina-2016-helbing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/helbing-laumond/</guid>
+      <guid>/publication/farina-2016-helbing/</guid>
       <description></description>
     </item>
     

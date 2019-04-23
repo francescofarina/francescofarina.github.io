@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirko Leomanni on Academic</title>
+    <link>/authors/mirko-leomanni/</link>
+    <description>Recent content in Mirko Leomanni on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/mirko-leomanni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimum Switching Thruster Control for Spacecraft Precision Pointing</title>
+      <link>/publication/leomanni-2017-minimum/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/leomanni-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

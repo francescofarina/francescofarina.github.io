@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Garulli on Academic</title>
+    <link>/authors/andrea-garulli/</link>
+    <description>Recent content in Andrea Garulli on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/andrea-garulli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A distributed asynchronous method of multipliers for constrained nonconvex optimization</title>
+      <link>/publication/farina-2019-distributed/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/farina-2019-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex optimization</title>
+      <link>/publication/farina-2018-asynchronous/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/farina-2018-asynchronous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed interpolatory algorithms for set membership estimation</title>
+      <link>/publication/farina-2018-distributed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/farina-2018-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Switching Thruster Control for Spacecraft Precision Pointing</title>
+      <link>/publication/leomanni-2017-minimum/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/leomanni-2017-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Helbing meets Laumond: The Headed Social Force Model</title>
+      <link>/publication/farina-2016-helbing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/farina-2016-helbing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
