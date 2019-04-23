@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Francesco Farina</title>
+    <link>https://francescofarina.github.io/home/</link>
+    <description>Recent content in Homes on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Francesco Farina</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://francescofarina.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://francescofarina.github.io/home/about/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/about/</guid>
+      <description>Biography I was born on August 10, 1991 in Vibo Valentia, Italy.
+I received the BSc degree in Electronic and Telecommunication Engineering from the University of Florence in 2013.
+I received the M.Sc. degree cum laude in Management Engineering from the University of Siena in 2015 with a thesis entitled Minimum Switching Precision Pointing with On/Off Actuators.
+I received the Ph.D. Degree in Information Engineering and Science at the Department of Information Engineering and Mathematics, University of Siena, under the supervision of Prof.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://francescofarina.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://francescofarina.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://francescofarina.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://francescofarina.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://francescofarina.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://francescofarina.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://francescofarina.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://francescofarina.github.io/home/contact/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
