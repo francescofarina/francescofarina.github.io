@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Academic</title>
-    <link>/authors/</link>
+    <link>https://francescofarina.github.io/authors/</link>
     <description>Recent content in Authors on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://francescofarina.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Andrea Garulli</title>
-      <link>/authors/andrea-garulli/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/andrea-garulli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antonio Giannitrapani</title>
-      <link>/authors/antonio-giannitrapani/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/antonio-giannitrapani/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Francesco Farina</title>
-      <link>/authors/francesco-farina/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <link>https://francescofarina.github.io/authors/francesco-farina/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
-      <guid>/authors/francesco-farina/</guid>
+      <guid>https://francescofarina.github.io/authors/francesco-farina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giuseppe Notarstefano</title>
-      <link>/authors/giuseppe-notarstefano/</link>
+      <link>https://francescofarina.github.io/authors/giuseppe-notarstefano/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/authors/giuseppe-notarstefano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Garulli</title>
+      <link>https://francescofarina.github.io/authors/andrea-garulli/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>/authors/giuseppe-notarstefano/</guid>
+      <guid>https://francescofarina.github.io/authors/andrea-garulli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Giannitrapani</title>
+      <link>https://francescofarina.github.io/authors/antonio-giannitrapani/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/authors/antonio-giannitrapani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabrizio Scortecci</title>
-      <link>/authors/fabrizio-scortecci/</link>
+      <link>https://francescofarina.github.io/authors/fabrizio-scortecci/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>/authors/fabrizio-scortecci/</guid>
+      <guid>https://francescofarina.github.io/authors/fabrizio-scortecci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mirko Leomanni</title>
-      <link>/authors/mirko-leomanni/</link>
+      <link>https://francescofarina.github.io/authors/mirko-leomanni/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
-      <guid>/authors/mirko-leomanni/</guid>
+      <guid>https://francescofarina.github.io/authors/mirko-leomanni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francesco AND Fontanelli, Daniele AND Garulli, Andrea AND Giannitrapani, Antonio AND Prattichizzo, Domenico Farina</title>
-      <link>/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</link>
+      <link>https://francescofarina.github.io/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</guid>
+      <guid>https://francescofarina.github.io/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniele Fontanelli</title>
-      <link>/authors/daniele-fontanelli/</link>
+      <link>https://francescofarina.github.io/authors/daniele-fontanelli/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>/authors/daniele-fontanelli/</guid>
+      <guid>https://francescofarina.github.io/authors/daniele-fontanelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domenico Prattichizzo</title>
-      <link>/authors/domenico-prattichizzo/</link>
+      <link>https://francescofarina.github.io/authors/domenico-prattichizzo/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>/authors/domenico-prattichizzo/</guid>
+      <guid>https://francescofarina.github.io/authors/domenico-prattichizzo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>/authors/admin/</link>
+      <link>https://francescofarina.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://francescofarina.github.io/authors/admin/</guid>
       <description></description>
     </item>
     

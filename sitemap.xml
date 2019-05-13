@@ -3,153 +3,165 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://francescofarina.github.io/publication_types/2/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/francesco-farina/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/giuseppe-notarstefano/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/mathematics-optimization-and-control/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-ar-xiv-proximal/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-distributed/</loc>
+    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/andrea-garulli/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/farina-2019-distributed/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://francescofarina.github.io/authors/antonio-giannitrapani/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/andrea-garulli/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/antonio-giannitrapani/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/francesco-farina/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/giuseppe-notarstefano/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://francescofarina.github.io/publication_types/1/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/farina-2018-asynchronous/</loc>
+    <loc>https://francescofarina.github.io/publication/farina-2018-asynchronous/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/farina-2018-distributed/</loc>
+    <loc>https://francescofarina.github.io/publication/farina-2018-distributed/</loc>
     <lastmod>2018-01-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/fabrizio-scortecci/</loc>
+    <loc>https://francescofarina.github.io/authors/fabrizio-scortecci/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/leomanni-2017-minimum/</loc>
+    <loc>https://francescofarina.github.io/publication/leomanni-2017-minimum/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mirko-leomanni/</loc>
+    <loc>https://francescofarina.github.io/authors/mirko-leomanni/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</loc>
+    <loc>https://francescofarina.github.io/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/farina-2017-walking/</loc>
+    <loc>https://francescofarina.github.io/publication/farina-2017-walking/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniele-fontanelli/</loc>
+    <loc>https://francescofarina.github.io/authors/daniele-fontanelli/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/domenico-prattichizzo/</loc>
+    <loc>https://francescofarina.github.io/authors/domenico-prattichizzo/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/farina-2016-helbing/</loc>
+    <loc>https://francescofarina.github.io/publication/farina-2016-helbing/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/admin/</loc>
+    <loc>https://francescofarina.github.io/author/admin/</loc>
   </url>
   
   <url>
-    <loc>/author/</loc>
+    <loc>https://francescofarina.github.io/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://francescofarina.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://francescofarina.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://francescofarina.github.io/talk/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://francescofarina.github.io/authors/admin/</loc>
     <priority>0</priority>
   </url>
   
