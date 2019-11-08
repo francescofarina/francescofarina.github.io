@@ -3,61 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://francescofarina.github.io/publication_types/2/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://francescofarina.github.io/</loc>
+    <lastmod>2019-11-08T10:38:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://francescofarina.github.io/project/disropt/</loc>
+    <lastmod>2019-11-08T10:38:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/project/</loc>
+    <lastmod>2019-11-08T10:38:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/3/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/andrea-camisa/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/andrea-testa/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-disropt/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/francesco-farina/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/giuseppe-notarstefano/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/tags/mathematics-optimization-and-control/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://francescofarina.github.io/authors/ivano-notarnicola/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/preprint/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/publication_types/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/publication/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/publication/farina-2019-ar-xiv-proximal/</loc>
-    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/tags/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/2/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/a.-garulli/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/a.-giannitrapani/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/d.-prattichizzo/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/f.-farina/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/journal/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/t.-l.-baldi/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/baldi-2019-upper/</loc>
+    <lastmod>2019-10-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-proximal/</loc>
     <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -68,19 +130,26 @@
   <url>
     <loc>https://francescofarina.github.io/authors/andrea-garulli/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/antonio-giannitrapani/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2018-distributed/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-submodular/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/publication_types/1/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -89,14 +158,13 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/publication/farina-2018-distributed/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <loc>https://francescofarina.github.io/tags/conference/</loc>
+    <lastmod>2018-06-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/fabrizio-scortecci/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,13 +175,11 @@
   <url>
     <loc>https://francescofarina.github.io/authors/mirko-leomanni/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/francesco-and-fontanelli-daniele-and-garulli-andrea-and-giannitrapani-antonio-and-prattichizzo-domenico-farina/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -124,13 +190,11 @@
   <url>
     <loc>https://francescofarina.github.io/authors/daniele-fontanelli/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/authors/domenico-prattichizzo/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -144,12 +208,10 @@
   
   <url>
     <loc>https://francescofarina.github.io/author/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -158,11 +220,6 @@
   
   <url>
     <loc>https://francescofarina.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/authors/admin/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

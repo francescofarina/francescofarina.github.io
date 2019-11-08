@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on Academic</title>
+    <link>https://francescofarina.github.io/tags/conference/</link>
+    <description>Recent content in conference on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://francescofarina.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex optimization</title>
+      <link>https://francescofarina.github.io/publication/farina-2018-asynchronous/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2018-asynchronous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Helbing meets Laumond: The Headed Social Force Model</title>
+      <link>https://francescofarina.github.io/publication/farina-2016-helbing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2016-helbing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

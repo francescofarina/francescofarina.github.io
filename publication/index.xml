@@ -6,17 +6,35 @@
     <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://francescofarina.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>DISROPT: a Python Framework for Distributed Optimization</title>
+      <link>https://francescofarina.github.io/publication/farina-2019-disropt/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2019-disropt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Body Pose Estimation Using Wearable Inertial Sensors and Multiplicative Kalman Filter</title>
+      <link>https://francescofarina.github.io/publication/baldi-2019-upper/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/baldi-2019-upper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Randomized Block Proximal Methods for Distributed Stochastic Big-Data Optimization</title>
-      <link>https://francescofarina.github.io/publication/farina-2019-ar-xiv-proximal/</link>
+      <link>https://francescofarina.github.io/publication/farina-2019-proximal/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://francescofarina.github.io/publication/farina-2019-ar-xiv-proximal/</guid>
+      <guid>https://francescofarina.github.io/publication/farina-2019-proximal/</guid>
       <description></description>
     </item>
     
@@ -30,20 +48,29 @@
     </item>
     
     <item>
+      <title>Distributed interpolatory algorithms for set membership estimation</title>
+      <link>https://francescofarina.github.io/publication/farina-2018-distributed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2018-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Submodular Minimization via Block-Wise Updates and Communications</title>
+      <link>https://francescofarina.github.io/publication/farina-2019-submodular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2019-submodular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asynchronous Distributed Method of Multipliers for Constrained Nonconvex optimization</title>
       <link>https://francescofarina.github.io/publication/farina-2018-asynchronous/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>https://francescofarina.github.io/publication/farina-2018-asynchronous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed interpolatory algorithms for set membership estimation</title>
-      <link>https://francescofarina.github.io/publication/farina-2018-distributed/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://francescofarina.github.io/publication/farina-2018-distributed/</guid>
       <description></description>
     </item>
     
