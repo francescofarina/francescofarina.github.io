@@ -6,10 +6,19 @@
     <description>Recent content in Francesco Farina on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://francescofarina.github.io/authors/francesco-farina/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asynchronous Distributed Learning From Constraints</title>
+      <link>https://francescofarina.github.io/publication/farina-2019-lfc/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2019-lfc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DISROPT: a Python Framework for Distributed Optimization</title>
