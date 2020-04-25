@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Camisa on Academic</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Andrea Camisa on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://francescofarina.github.io/authors/andrea-camisa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributed Constraint-Coupled Optimization over Random Time-Varying Graphs via Primal Decomposition and Block Subgradient Approaches</title>
+      <link>https://francescofarina.github.io/publication/farina-2019-primal-cdc/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publication/farina-2019-primal-cdc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DISROPT: a Python Framework for Distributed Optimization</title>

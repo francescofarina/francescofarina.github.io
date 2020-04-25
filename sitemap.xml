@@ -1,6 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/2/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/francesco-farina/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/giuseppe-notarstefano/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/journal/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2020-lcss/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication_types/1/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
   
   <url>
     <loc>https://francescofarina.github.io/publication_types/3/</loc>
@@ -8,12 +63,22 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/</loc>
+    <loc>https://francescofarina.github.io/publication/farina-2019-block_cdc/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/authors/</loc>
+    <loc>https://francescofarina.github.io/authors/andrea-camisa/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/andrea-garulli/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/antonio-giannitrapani/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -23,27 +88,27 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/authors/francesco-farina/</loc>
+    <loc>https://francescofarina.github.io/tags/conference/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-primal-cdc/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/publication/farina-2019-set-cdc/</loc>
+    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/ivano-notarnicola/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/tags/preprint/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/publication_types/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/publication/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/tags/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -58,27 +123,7 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/publication_types/2/</loc>
-    <lastmod>2019-11-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/authors/andrea-garulli/</loc>
-    <lastmod>2019-11-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/authors/antonio-giannitrapani/</loc>
-    <lastmod>2019-11-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francescofarina.github.io/publication/farina-2019-lfc/</loc>
-    <lastmod>2019-11-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/tags/journal/</loc>
     <lastmod>2019-11-08T00:00:00+01:00</lastmod>
   </url>
   
@@ -88,27 +133,12 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/authors/andrea-camisa/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francescofarina.github.io/authors/andrea-testa/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://francescofarina.github.io/publication/farina-2019-disropt/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/authors/giuseppe-notarstefano/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/authors/ivano-notarnicola/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -163,17 +193,7 @@
   </url>
   
   <url>
-    <loc>https://francescofarina.github.io/publication_types/1/</loc>
-    <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://francescofarina.github.io/publication/farina-2018-asynchronous/</loc>
-    <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://francescofarina.github.io/tags/conference/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -219,6 +239,10 @@
   
   <url>
     <loc>https://francescofarina.github.io/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://francescofarina.github.io/authors/admin/</loc>
   </url>
   
   <url>
