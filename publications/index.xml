@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>francesco farina</title>
-    <link>https://francescofarina.github.io/</link>
-    <description>Recent content on francesco farina</description>
+    <title>Publications on francesco farina</title>
+    <link>https://francescofarina.github.io/publications/</link>
+    <description>Recent content in Publications on francesco farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symmetry-driven graph neural networks</title>
       <link>https://francescofarina.github.io/publications/farina2021symmetry/</link>
@@ -125,15 +125,6 @@
     </item>
     
     <item>
-      <title>disropt</title>
-      <link>https://francescofarina.github.io/software/disropt/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://francescofarina.github.io/software/disropt/</guid>
-      <description>  Can be installed via pip:   pip install disropt  How to use:  Quickstart Tutorial Examples     </description>
-    </item>
-    
-    <item>
       <title>Upper Body Pose Estimation Using Wearable Inertial Sensors and Multiplicative Kalman Filter</title>
       <link>https://francescofarina.github.io/publications/baldi2019upper/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0100</pubDate>
@@ -203,28 +194,6 @@
       
       <guid>https://francescofarina.github.io/publications/farina2016helbing/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://francescofarina.github.io/about/brief/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://francescofarina.github.io/about/brief/</guid>
-      <description>I am an AI/ML research scientist at GSK.ai. My current research concerns geometric deep learning (especially creating graph architectures that are able to exploit symmetries and equivariance in data), causal discovery through graph networks and uncertainty estimation.
-Linked profiles:
- LinkedIn Google Scholar Researchgate ORCID GitHub  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://francescofarina.github.io/about/long/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://francescofarina.github.io/about/long/</guid>
-      <description>Ciao
-I am an AI/ML research scientist at GSK.ai. My current research concerns geometric deep learning (especially creating graph architectures that are able to exploit symmetries and equivariance in data), causal discovery through graph networks and uncertainty estimation.
-Previously, my research has focused on distributed (multi-agent) optimization, machine learning, estimation and control. In this area, I have published works in prominent journals and conferences, including Automatica (Elsevier), IEEE Transactions on Automatic Control, IEEE Transactions on Neural Networks and Learning Systems and Plos ONE.</description>
     </item>
     
   </channel>
