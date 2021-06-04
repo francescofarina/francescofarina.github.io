@@ -5,6 +5,7 @@
     <link>https://francescofarina.github.io/categories/</link>
     <description>Recent content in Categories on francesco farina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://francescofarina.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>{year} Francesco Farina.</copyright><atom:link href="https://francescofarina.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
