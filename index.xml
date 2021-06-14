@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year} Francesco Farina.</copyright>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Constraint-Coupled Optimization via Primal Decomposition over Random Time-Varying Graphs</title>
+      <link>https://francescofarina.github.io/publications/camisa2020distributed/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publications/camisa2020distributed/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Symmetry-driven graph neural networks</title>
       <link>https://francescofarina.github.io/publications/farina2021symmetry/</link>
@@ -23,15 +32,6 @@
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/slade2021beyond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Constraint-Coupled Optimization via Primal Decomposition over Random Time-Varying Graphs</title>
-      <link>https://francescofarina.github.io/publications/camisa2020distributed/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://francescofarina.github.io/publications/camisa2020distributed/</guid>
       <description></description>
     </item>
     

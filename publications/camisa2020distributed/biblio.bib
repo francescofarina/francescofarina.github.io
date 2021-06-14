@@ -1,6 +1,12 @@
 @article{camisa2020distributed,
-  title   = {Distributed Constraint-Coupled Optimization via Primal Decomposition over Random Time-Varying Graphs},
-  author  = {Camisa, Andrea and Farina, Francesco and Notarnicola, Ivano and Notarstefano, Giuseppe},
-  journal = {arXiv preprint arXiv:2010.14489},
-  year    = {2020}
+  title    = {Distributed constraint-coupled optimization via primal decomposition over random time-varying graphs},
+  journal  = {Automatica},
+  volume   = {131},
+  pages    = {109739},
+  year     = {2021},
+  issn     = {0005-1098},
+  doi      = {https://doi.org/10.1016/j.automatica.2021.109739},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0005109821002594},
+  author   = {Andrea Camisa and Francesco Farina and Ivano Notarnicola and Giuseppe Notarstefano},
+  abstract = {The paper addresses large-scale, convex optimization problems that need to be solved in a distributed way by agents communicating according to a random time-varying graph. Specifically, the goal of the network is to minimize the sum of local costs, while satisfying local and coupling constraints. Agents communicate according to a time-varying model in which edges of an underlying connected graph are active at each iteration with certain non-uniform probabilities. By relying on a primal decomposition scheme applied to an equivalent problem reformulation, we propose a novel distributed algorithm in which agents negotiate a local allocation of the total resource only with neighbors with active communication links. The algorithm is studied as a subgradient method with block-wise updates, in which blocks correspond to the graph edges that are active at each iteration. Thanks to this analysis approach, we show almost sure convergence to the optimal cost of the original problem and almost sure asymptotic primal recovery without resorting to averaging mechanisms typically employed in dual decomposition schemes. Explicit sublinear convergence rates are provided under the assumption of diminishing and constant step-sizes. Finally, an extensive numerical study on a plug-in electric vehicle charging problem corroborates the theoretical results.}
 }
