@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year} Francesco Farina.</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>afterglow</title>
+      <link>https://francescofarina.github.io/software/afterglow/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/software/afterglow/</guid>
+      <description>  Can be installed by cloning the repo and using   pip install . in the base folder.
+ How to use:  Quickstart     </description>
+    </item>
+    
     <item>
       <title>Intrinsic uncertainties and where to find them</title>
       <link>https://francescofarina.github.io/publications/farina2021intrinsic/</link>
