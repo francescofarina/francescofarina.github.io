@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year} Francesco Farina.</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An interpolatory algorithm for distributed set membership estimation in asynchronous networks</title>
+      <link>https://francescofarina.github.io/publications/farina2021interpolatory/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://francescofarina.github.io/publications/farina2021interpolatory/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Intrinsic uncertainties and where to find them</title>
       <link>https://francescofarina.github.io/publications/farina2021intrinsic/</link>
