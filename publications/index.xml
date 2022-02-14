@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year} Francesco Farina.</copyright>
-    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://francescofarina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://francescofarina.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An interpolatory algorithm for distributed set membership estimation in asynchronous networks</title>
       <link>https://francescofarina.github.io/publications/farina2021interpolatory/</link>
-      <pubDate>Wed, 27 Oct 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2021interpolatory/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Intrinsic uncertainties and where to find them</title>
       <link>https://francescofarina.github.io/publications/farina2021intrinsic/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2021intrinsic/</guid>
       <description></description>
@@ -29,7 +29,7 @@
     <item>
       <title>Data efficiency in graph networks through equivariance</title>
       <link>https://francescofarina.github.io/publications/farina2021data/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2021data/</guid>
       <description></description>
@@ -38,7 +38,7 @@
     <item>
       <title>Distributed Constraint-Coupled Optimization via Primal Decomposition over Random Time-Varying Graphs</title>
       <link>https://francescofarina.github.io/publications/camisa2020distributed/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/camisa2020distributed/</guid>
       <description></description>
@@ -47,7 +47,7 @@
     <item>
       <title>Symmetry-driven graph neural networks</title>
       <link>https://francescofarina.github.io/publications/farina2021symmetry/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2021symmetry/</guid>
       <description></description>
@@ -65,7 +65,7 @@
     <item>
       <title>Randomized block proximal methods for distributed stochastic big-data optimization</title>
       <link>https://francescofarina.github.io/publications/farina2020randomized/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2020randomized/</guid>
       <description></description>
@@ -74,7 +74,7 @@
     <item>
       <title>Distributed online optimization via gradient tracking with adaptive momentum</title>
       <link>https://francescofarina.github.io/publications/carnevale2020distributed/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/carnevale2020distributed/</guid>
       <description></description>
@@ -83,7 +83,7 @@
     <item>
       <title>Distributed personalized gradient tracking with convex parametric models</title>
       <link>https://francescofarina.github.io/publications/notarnicola2020distributed/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/notarnicola2020distributed/</guid>
       <description></description>
@@ -92,7 +92,7 @@
     <item>
       <title>Disropt: a python framework for distributed optimization</title>
       <link>https://francescofarina.github.io/publications/farina2020disropt/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2020disropt/</guid>
       <description></description>
@@ -101,7 +101,7 @@
     <item>
       <title>Distributed Submodular Minimization via Block-Wise Updates and Communications</title>
       <link>https://francescofarina.github.io/publications/testa2020distributed/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/testa2020distributed/</guid>
       <description></description>
@@ -155,7 +155,7 @@
     <item>
       <title>Upper Body Pose Estimation Using Wearable Inertial Sensors and Multiplicative Kalman Filter</title>
       <link>https://francescofarina.github.io/publications/baldi2019upper/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/baldi2019upper/</guid>
       <description></description>
@@ -191,7 +191,7 @@
     <item>
       <title>Asynchronous distributed method of multipliers for constrained nonconvex optimization</title>
       <link>https://francescofarina.github.io/publications/farina2018asynchronous/</link>
-      <pubDate>Tue, 12 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/publications/farina2018asynchronous/</guid>
       <description></description>
