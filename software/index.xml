@@ -14,8 +14,8 @@
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/software/afterglow/</guid>
-      <description>  Can be installed by cloning the repo and using   pip install . in the base folder.
- How to use:  Quickstart     </description>
+      <description> Can be installed by cloning the repo and using pip install . in the base folder.
+How to use: Quickstart </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://francescofarina.github.io/software/disropt/</guid>
-      <description>  Can be installed via pip:   pip install disropt  How to use:  Quickstart Tutorial Examples     </description>
+      <description> Can be installed via pip: pip install disropt How to use: Quickstart Tutorial Examples </description>
     </item>
     
   </channel>
